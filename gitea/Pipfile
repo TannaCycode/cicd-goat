@@ -7,7 +7,7 @@ name = "pypi"
 requests = "*"
 click = "*"
 pyyaml = "*"
-gitpython = "*"
+gitpython = "==3.2.1"
 
 [dev-packages]
 
